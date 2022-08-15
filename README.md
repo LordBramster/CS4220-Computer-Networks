@@ -1,2 +1,2 @@
-# TCP_UDP_CS4220
-Computer Networks Project(s)
+# TCP UDP
+**CS4220 - Homework Exercises**
